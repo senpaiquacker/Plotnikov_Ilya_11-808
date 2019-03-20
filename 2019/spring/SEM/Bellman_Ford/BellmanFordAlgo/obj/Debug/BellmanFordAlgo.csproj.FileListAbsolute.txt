@@ -1,0 +1,6 @@
+C:\Users\Варфоломеев\source\repos\Bellman_Ford\BellmanFordAlgo\bin\Debug\BellmanFordAlgo.dll
+C:\Users\Варфоломеев\source\repos\Bellman_Ford\BellmanFordAlgo\bin\Debug\BellmanFordAlgo.pdb
+C:\Users\Варфоломеев\source\repos\Bellman_Ford\BellmanFordAlgo\obj\Debug\BellmanFordAlgo.csprojAssemblyReference.cache
+C:\Users\Варфоломеев\source\repos\Bellman_Ford\BellmanFordAlgo\obj\Debug\BellmanFordAlgo.csproj.CoreCompileInputs.cache
+C:\Users\Варфоломеев\source\repos\Bellman_Ford\BellmanFordAlgo\obj\Debug\BellmanFordAlgo.dll
+C:\Users\Варфоломеев\source\repos\Bellman_Ford\BellmanFordAlgo\obj\Debug\BellmanFordAlgo.pdb

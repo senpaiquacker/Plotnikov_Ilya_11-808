@@ -1,0 +1,7 @@
+C:\Users\Варфоломеев\source\repos\Bellman_Ford\Generator\bin\Debug\Generator.exe.config
+C:\Users\Варфоломеев\source\repos\Bellman_Ford\Generator\bin\Debug\Generator.exe
+C:\Users\Варфоломеев\source\repos\Bellman_Ford\Generator\bin\Debug\Generator.pdb
+C:\Users\Варфоломеев\source\repos\Bellman_Ford\Generator\obj\Debug\Generator.csproj.CoreCompileInputs.cache
+C:\Users\Варфоломеев\source\repos\Bellman_Ford\Generator\obj\Debug\Generator.exe
+C:\Users\Варфоломеев\source\repos\Bellman_Ford\Generator\obj\Debug\Generator.pdb
+C:\Users\Варфоломеев\source\repos\Bellman_Ford\Generator\obj\Debug\Generator.csprojAssemblyReference.cache
