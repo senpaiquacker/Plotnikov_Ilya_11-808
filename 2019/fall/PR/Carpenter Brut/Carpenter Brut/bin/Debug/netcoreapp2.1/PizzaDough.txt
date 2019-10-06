@@ -1,0 +1,5 @@
+white -1,5
+wholegrain -1,0
+crispy 0,9
+chewy 1,1
+home 1,0
