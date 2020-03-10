@@ -1,0 +1,8 @@
+C:\Users\Admin\source\repos\Test\Test\bin\Debug\Test.exe.config
+C:\Users\Admin\source\repos\Test\Test\bin\Debug\Test.exe
+C:\Users\Admin\source\repos\Test\Test\bin\Debug\Test.pdb
+C:\Users\Admin\source\repos\Test\Test\obj\Debug\Test.exe
+C:\Users\Admin\source\repos\Test\Test\obj\Debug\Test.pdb
+C:\Users\Admin\source\repos\Test\Test\obj\Debug\Test.csproj.GenerateResource.cache
+C:\Users\Admin\source\repos\Test\Test\obj\Debug\Client.LoginWindow.resources
+C:\Users\Admin\source\repos\Test\Test\obj\Debug\Test.csprojAssemblyReference.cache
